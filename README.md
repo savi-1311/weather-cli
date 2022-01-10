@@ -1,13 +1,13 @@
-### NPM Package- get-weather
+### NPM Package- weather-library
 
 It is an npm package to display current weather of a city quickly!
 
 ### Usage
 ```
-npx get-weather <city_name>
+npx weather-library <city_name>
 ```
 
 ### Example
 ```
-npx get-weather paris
+npx weather-library paris
 ```

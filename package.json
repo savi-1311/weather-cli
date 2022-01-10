@@ -1,5 +1,5 @@
 {
-  "name": "get-weather",
+  "name": "weather-library",
   "version": "1.0.0",
   "description": "It is an npm package to display current weather of a city quickly!",
   "main": "index.js",
